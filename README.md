@@ -22,7 +22,7 @@ This project builds a machine learning model to predict the survival of Titanic 
 - Sample Predictions: Available in notebook output.
 
 **Screenshots**
-- [Preprocessed Test Data]
+- [Preprocessed Test Data]https://github.com/Chetancheta/SourceHubIT_TitanicSurvivalPrediction/blob/main/Screenshot%202025-09-28%20120755.png
 - [Confusion Matrix]https://github.com/Chetancheta/SourceHubIT_TitanicSurvivalPrediction/blob/main/Titanic%20confusion%20matrix.png
 - [Sample Predictions]https://github.com/Chetancheta/SourceHubIT_TitanicSurvivalPrediction/blob/main/Screenshot%202025-09-28%20120815.png
 
